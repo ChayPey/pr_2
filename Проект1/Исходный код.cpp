@@ -11,7 +11,7 @@
 // The main window class name.
 static TCHAR szWindowClass[] = _T("DesktopApp");
 
-// The string that appears in the application's title bar.
+// The  string that appears in the application's title bar.
 static TCHAR szTitle[] = _T("Практика 2");
 
 HINSTANCE hInst;
